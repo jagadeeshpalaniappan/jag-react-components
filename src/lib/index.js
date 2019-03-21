@@ -1,8 +1,8 @@
 import Example from './components/Example';
-import SecondExample from './components/SecondExample';
+import SideNav from './components/SideNav/SideNav';
 
 export default Example;
 
 export {
-  SecondExample,
+  SideNav,
 };

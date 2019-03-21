@@ -4,8 +4,8 @@ import './Example.css';
 
 const Example = () => (
   <div className="Example">
-    <img src={udiliaLogo} alt="React logo" width="62" />
-    <h1 className="Example-text">Create React Library</h1>
+    <img src={udiliaLogo} alt="Jag's React Components" width="62" />
+    <h1 className="Example-text">Jag's React Components</h1>
   </div>
 );
 
