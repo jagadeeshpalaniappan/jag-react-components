@@ -1,4 +1,4 @@
-# React NPM library starter kit
+# jag-react-components
 
 [![Build Status](https://travis-ci.org/DimiMikadze/create-react-library.svg?branch=master)](https://travis-ci.org/DimiMikadze/create-react-library)
 [![Dependencies](https://img.shields.io/david/DimiMikadze/create-react-library.svg)]()

@@ -1,5 +1,5 @@
 {
-  "name": "create-react-library",
+  "name": "jag-react-components",
   "version": "2.0.0",
   "description": "React NPM library starter kit based on Facebook's create react app",
   "main": "build/index.js",
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DimiMikadze/create-react-library.git"
+    "url": "git+https://github.com/jagadeeshpalaniappan/jag-react-components.git"
   },
-  "author": "Dimi Mikadze <dimi@udilia.com>",
+  "author": "Jagadeesh Palaniappan <jagadeeshthegeek@gmail.com>",
   "bugs": {
-    "url": "https://github.com/DimiMikadze/create-react-library/issues"
+    "url": "https://github.com/jagadeeshpalaniappan/jag-react-components/issues"
   },
-  "homepage": "https://github.com/DimiMikadze/create-react-library#readme",
+  "homepage": "https://github.com/jagadeeshpalaniappan/jag-react-components#readme",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
