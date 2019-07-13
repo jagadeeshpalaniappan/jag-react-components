@@ -1,8 +1,11 @@
-import Example from './components/Example';
-import SideNav from './components/SideNav/SideNav';
+import JagTestComponentDefault from './components/JagTestComponentDefault';
+import JagTestComponent1 from './components/JagTestComponent1/JagTestComponent1';
+import JagTestComponent2 from './components/JagTestComponent2/JagTestComponent2';
 
-export default Example;
+
+export default JagTestComponentDefault;
 
 export {
-  SideNav,
+    JagTestComponent1,
+    JagTestComponent2,
 };

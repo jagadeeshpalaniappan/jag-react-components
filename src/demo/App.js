@@ -1,12 +1,16 @@
 import React from 'react';
-import Example from '../lib';
-import { SideNav } from '../lib';
+import JagTestComponentDefault from '../lib';
+import {JagTestComponent1, JagTestComponent2} from '../lib';
 
 const App = () => (
-  <div>
-    <Example />
-    <SideNav />
-  </div>
+    <div>
+        <JagTestComponentDefault/>
+        <hr/>
+        <JagTestComponent1/>
+        <hr/>
+        <JagTestComponent2 color="salmon"/>
+        <hr/>
+    </div>
 );
 
 export default App;
