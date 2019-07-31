@@ -1,6 +1,7 @@
 import React from 'react';
 import JagTestComponentDefault from '../lib';
 import {JagTestComponent1, JagTestComponent2} from '../lib';
+import SimpleOffcanvasDemo from './SimpleOffcanvasDemo/SimpleOffcanvasDemo';
 
 const App = () => (
     <div>
@@ -10,6 +11,7 @@ const App = () => (
         <hr/>
         <JagTestComponent2 color="salmon"/>
         <hr/>
+        <SimpleOffcanvasDemo />
     </div>
 );
 
